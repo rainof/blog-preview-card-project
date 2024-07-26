@@ -1,23 +1,16 @@
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import blog_img from './assets/images/illustration-article.svg';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="card" style={{width: '18rem'}}>
+      <img className="card-img-top" src={blog_img} alt="blog" />
+      <div className="card-body">
+        <h5 className="card-title">HTML & CSS foundations</h5>
+        <p className="card-text">These languages are the backbone of every website, defining structure, content, and presentation.</p>
+        {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
+      </div>
     </div>
   );
 }
