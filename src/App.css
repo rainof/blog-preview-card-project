@@ -38,7 +38,7 @@
 }
 
 .card-body {
-  padding-top: 1.4rem;
+  padding: 1.2rem 0 0 0;
 }
 
 .card-label {
@@ -53,35 +53,41 @@
 }
 
 .pub-date {
-  font-family: 'Figtreec', sans-serif;
+  font-family: 'Figtree-SemiBold', sans-serif;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 12px;
   color: hsl(0, 0%, 7%);
-  padding-top: 0.5rem;
+  padding-top: 0.7rem;
 }
 
  .card-title {
   font-family: 'Figtree-ExtraBold', sans-serif;
   font-weight: bold;
-  padding-bottom: 0.6rem;
+  padding-bottom: 0.5rem;
+ }
+
+ .card-title:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
  }
 
  .card-text {
-  font-family: 'Figtree', sans-serif;
+  font-family: 'Figtree-SemiBold', sans-serif;
   font-size: 14px;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.2rem;
   color: hsl(0, 0%, 42%);
  }
 
  .author-info {
   display: flex;
+  padding-bottom: 0.2rem;
  }
 
  .author-logo {
   border-radius: 50%;
   width: 30px;
   height: 30px;
-  margin-right: 1rem;
+  margin-right: 0.6rem;
  }
 
  .author-name {

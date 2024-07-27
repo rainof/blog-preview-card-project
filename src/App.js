@@ -5,7 +5,7 @@ import author_img from './assets/images/image-avatar.webp';
 
 function App() {
   return (
-    <div className="card" style={{width: '22rem'}}>
+    <div className="card" style={{width: '21rem'}}>
       <img className="card-img" src={blog_img} alt="blog" />
       <div className="card-body">
         <button type="button" className="card-label">Learning</button>
@@ -17,7 +17,6 @@ function App() {
           <img className="author-logo" src={author_img} alt="author" />
           <p className="author-name">Greg Hooper</p>
         </div>
-
       </div>
     </div>
   );
