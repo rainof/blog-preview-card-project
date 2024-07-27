@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blog-preview-card-project/static/css/main.57b95342.css",
-    "main.js": "/blog-preview-card-project/static/js/main.52c1b3ff.js",
+    "main.js": "/blog-preview-card-project/static/js/main.d48f7f94.js",
     "static/js/453.5ec02dfa.chunk.js": "/blog-preview-card-project/static/js/453.5ec02dfa.chunk.js",
     "static/media/Figtree-Italic-VariableFont_wght.ttf": "/blog-preview-card-project/static/media/Figtree-Italic-VariableFont_wght.bf017463d790259b89d4.ttf",
     "static/media/Figtree-VariableFont_wght.ttf": "/blog-preview-card-project/static/media/Figtree-VariableFont_wght.5ecd3f8010e7190b961b.ttf",
@@ -11,11 +11,11 @@
     "static/media/image-avatar.webp": "/blog-preview-card-project/static/media/image-avatar.79dc6fdb93748b6b0120.webp",
     "index.html": "/blog-preview-card-project/index.html",
     "main.57b95342.css.map": "/blog-preview-card-project/static/css/main.57b95342.css.map",
-    "main.52c1b3ff.js.map": "/blog-preview-card-project/static/js/main.52c1b3ff.js.map",
+    "main.d48f7f94.js.map": "/blog-preview-card-project/static/js/main.d48f7f94.js.map",
     "453.5ec02dfa.chunk.js.map": "/blog-preview-card-project/static/js/453.5ec02dfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b95342.css",
-    "static/js/main.52c1b3ff.js"
+    "static/js/main.d48f7f94.js"
   ]
 }
