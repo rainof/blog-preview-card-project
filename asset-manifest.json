@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rainof/blog-preview-card-project/static/css/main.3bd7be19.css",
-    "main.js": "/rainof/blog-preview-card-project/static/js/main.64b95310.js",
-    "static/js/453.5ec02dfa.chunk.js": "/rainof/blog-preview-card-project/static/js/453.5ec02dfa.chunk.js",
-    "static/media/Figtree-Italic-VariableFont_wght.ttf": "/rainof/blog-preview-card-project/static/media/Figtree-Italic-VariableFont_wght.bf017463d790259b89d4.ttf",
-    "static/media/Figtree-VariableFont_wght.ttf": "/rainof/blog-preview-card-project/static/media/Figtree-VariableFont_wght.5ecd3f8010e7190b961b.ttf",
-    "static/media/Figtree-ExtraBold.ttf": "/rainof/blog-preview-card-project/static/media/Figtree-ExtraBold.4f69ac3b22741c171be3.ttf",
-    "static/media/Figtree-SemiBold.ttf": "/rainof/blog-preview-card-project/static/media/Figtree-SemiBold.e7c36b47e6cec9d98046.ttf",
-    "static/media/illustration-article.svg": "/rainof/blog-preview-card-project/static/media/illustration-article.082cca317c8b4b2c973fa73013373085.svg",
-    "static/media/image-avatar.webp": "/rainof/blog-preview-card-project/static/media/image-avatar.79dc6fdb93748b6b0120.webp",
-    "index.html": "/rainof/blog-preview-card-project/index.html",
-    "main.3bd7be19.css.map": "/rainof/blog-preview-card-project/static/css/main.3bd7be19.css.map",
-    "main.64b95310.js.map": "/rainof/blog-preview-card-project/static/js/main.64b95310.js.map",
-    "453.5ec02dfa.chunk.js.map": "/rainof/blog-preview-card-project/static/js/453.5ec02dfa.chunk.js.map"
+    "main.css": "/blog-preview-card-project/static/css/main.57b95342.css",
+    "main.js": "/blog-preview-card-project/static/js/main.52c1b3ff.js",
+    "static/js/453.5ec02dfa.chunk.js": "/blog-preview-card-project/static/js/453.5ec02dfa.chunk.js",
+    "static/media/Figtree-Italic-VariableFont_wght.ttf": "/blog-preview-card-project/static/media/Figtree-Italic-VariableFont_wght.bf017463d790259b89d4.ttf",
+    "static/media/Figtree-VariableFont_wght.ttf": "/blog-preview-card-project/static/media/Figtree-VariableFont_wght.5ecd3f8010e7190b961b.ttf",
+    "static/media/Figtree-ExtraBold.ttf": "/blog-preview-card-project/static/media/Figtree-ExtraBold.4f69ac3b22741c171be3.ttf",
+    "static/media/Figtree-SemiBold.ttf": "/blog-preview-card-project/static/media/Figtree-SemiBold.e7c36b47e6cec9d98046.ttf",
+    "static/media/illustration-article.svg": "/blog-preview-card-project/static/media/illustration-article.082cca317c8b4b2c973fa73013373085.svg",
+    "static/media/image-avatar.webp": "/blog-preview-card-project/static/media/image-avatar.79dc6fdb93748b6b0120.webp",
+    "index.html": "/blog-preview-card-project/index.html",
+    "main.57b95342.css.map": "/blog-preview-card-project/static/css/main.57b95342.css.map",
+    "main.52c1b3ff.js.map": "/blog-preview-card-project/static/js/main.52c1b3ff.js.map",
+    "453.5ec02dfa.chunk.js.map": "/blog-preview-card-project/static/js/453.5ec02dfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bd7be19.css",
-    "static/js/main.64b95310.js"
+    "static/css/main.57b95342.css",
+    "static/js/main.52c1b3ff.js"
   ]
 }
