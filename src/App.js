@@ -12,7 +12,6 @@ function App() {
         <p className="pub-date">Published 21 Dec 2023</p>
         <h5 className="card-title">HTML & CSS foundations</h5>
         <p className="card-text">These languages are the backbone of every website, defining structure, content, and presentation.</p>
-        {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
         <div className="author-info">
           <img className="author-logo" src={author_img} alt="author" />
           <p className="author-name">Greg Hooper</p>

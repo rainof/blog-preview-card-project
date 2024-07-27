@@ -10,7 +10,7 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-x: hidden; /* ป้องกันการเลื่อนแนวนอน */
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
 }
